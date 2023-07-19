@@ -4,7 +4,7 @@ Esse programa pode ser usado em diversas áreas de negócio. E se aliado à ferr
 
 # Ferramentas utilizadas:
 - Linguagem Python;
-- Listas;
+- Listas e Dicionários;
 - Laços de repetição for e while.
 - OBS: nada que foi utilizado é extremamente difícil. Python é simples e com poucas funções e linhas de código podemos alcançar resultados esplêndidos.
 
